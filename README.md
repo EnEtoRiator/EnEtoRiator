@@ -70,7 +70,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=enetoriator&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enetoriator&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=EnEtoRiator&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
