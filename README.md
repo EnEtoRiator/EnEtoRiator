@@ -56,7 +56,11 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 Featured Projects
+
+</div>
 
 
 | Project | Stack | Description |
@@ -68,7 +72,11 @@
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=EnEtoRiator&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
