@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EnEtoRiator/EnEtoRiator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ivan 👋
 
-Here are some ideas to get you started:
+**Full-Stack Web Developer • Minecraft Modder • Local AI Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linux](https://img.shields.io/badge/OS-Ubuntu%20%7C%20Windows-222222?style=flat-square&logo=ubuntu&logoColor=E95420)](#)
+[![Editor](https://img.shields.io/badge/IDE-VS%20Code-222222?style=flat-square&logo=visualstudiocode&logoColor=007ACC)](#)
+[![Focus](https://img.shields.io/badge/Focus-Python%20%E2%80%A2%20Java%20%E2%80%A2%20AI%20Agents-222222?style=flat-square)](#)
+
+### 👨‍💻 About Me
+
+</div>
+
+- 🤖 Building **AI Agent Studio** — a local desktop AI assistant with custom tool-calling, SQLite persistence, and a **Flet** GUI powered by **LangGraph** & open-source LLMs.
+- ⚔️ Developing **Ascendant** — a *Path of Exile*-inspired RPG skill tree and class progression mod for **Minecraft Fabric**.
+- 🌐 Engineering full-stack web applications with **Django**, **PostgreSQL**, REST APIs, and automated Git-to-VPS deployment pipelines.
+- 🛠️ Enjoying low-overhead architecture, cross-platform system utilities, and clean developer tooling.
+
+<div align="center">
+  
+### 🧰 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+**Frameworks, AI & Modding**  
+  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Minecraft Fabric](https://img.shields.io/badge/Fabric_API-DBD0B4?style=for-the-badge&logo=curseforge&logoColor=black)
+
+</div>
+
+<div align="center">
+
+**Databases & Infrastructure**  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **AI Agent Studio** | `Python` `Flet` `LangGraph` `SQLite` | Local desktop GUI for running open-source coding models with multi-chat history and custom tool execution. |
+| **Ascendant** | `Java` `Fabric API` | Custom RPG skill tree mod introducing specialized class branches and progression mechanics. |
+| **Numismatic Overhaul (26.3)** | `Java` `Fabric` | Modernized Fabric 26.3 port of the RPG currency and coin economy mod. |
+| **Split-Tunnel Utility** | `Python` `Mihomo` `Linux/Win` | Cross-platform per-app network routing wrapper for fine-grained traffic control. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=enetoriator&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enetoriator&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
