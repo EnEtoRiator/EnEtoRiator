@@ -13,7 +13,6 @@
 </div>
 
 - 🤖 Building **AI Agent Studio** — a local desktop AI assistant with custom tool-calling, SQLite persistence, and a **Flet** GUI powered by **LangGraph** & open-source LLMs.
-- ⚔️ Developing **Ascendant** — a *Path of Exile*-inspired RPG skill tree and class progression mod for **Minecraft Fabric**.
 - 🌐 Engineering full-stack web applications with **Django**, **PostgreSQL**, REST APIs, and automated Git-to-VPS deployment pipelines.
 - 🛠️ Enjoying low-overhead architecture, cross-platform system utilities, and clean developer tooling.
 
