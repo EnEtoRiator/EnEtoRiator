@@ -66,9 +66,8 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **AI Agent Studio** | `Python` `Flet` `LangGraph` `SQLite` | Local desktop GUI for running open-source coding models with multi-chat history and custom tool execution. |
-| **Ascendant** | `Java` `Fabric API` | Custom RPG skill tree mod introducing specialized class branches and progression mechanics. |
 | **Numismatic Overhaul (26.3)** | `Java` `Fabric` | Modernized Fabric 26.3 port of the RPG currency and coin economy mod. |
-| **Split-Tunnel Utility** | `Python` `Mihomo` `Linux/Win` | Cross-platform per-app network routing wrapper for fine-grained traffic control. |
+| **Praxis Arcana (26.3)** | `Java` `Fabric` | Epic mod, just wait for drop it. |
 
 ---
 
